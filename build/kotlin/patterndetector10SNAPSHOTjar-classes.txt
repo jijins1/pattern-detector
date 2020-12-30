@@ -1,0 +1,1 @@
+C:\Users\leoge\Documents\GitHub\pattern-detector\build\classes\kotlin\main\com\ruokki\pattern\detector\CenterDetector.class
